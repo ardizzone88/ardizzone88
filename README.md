@@ -1,5 +1,5 @@
-- 👋 Hi, I’m David Ardizzone.
-- 👀 I’m interested in web programming.
+👋 Hi, I’m David Ardizzone.
+👀 I’m interested in web programming.
 
 
 🦄 Skills: HTML, CSS, Web design, JavaScript, Bootstrap, Vue.Js, MySQL, Git.
