@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming.
 
 
-🦄 Skills: HTML, CSS, Web design, JavaScript, Bootstrap, Vue.Js e Styled Components, MySQL, Git.
+🦄 Skills: HTML, CSS, Web design, JavaScript, Bootstrap, Vue.Js, MySQL, Git.
 
 💼 Herramentas: VSCode, Firebase, GitHub.
 
