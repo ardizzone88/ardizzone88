@@ -1,8 +1,21 @@
 - 👋 Hi, I’m David Ardizzone.
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning Vue and React.
 
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/ardizzone88/)
 
+🌎 Hola, meu nome é Iuri Silva. Sou Desenvolvedor de Front-End e UI Designer.
+
+🦄 Skills: HTML, CSS, Web design, JavaScript, Bootstrap, Vue.Js e Styled Components, MySQL, Git.
+
+💼 Herramentas: VSCode, Firebase, GitHub.
+
+🌱 I’m currently learning  React.Js
+
+💌 Contact me!.
+
+
+
+* david.ard@hotmail.com
+
+* https://twitter.com/Ardizzone88
 
