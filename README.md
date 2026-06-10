@@ -12,8 +12,8 @@
 
 
 
-* david.ard@hotmail.com
-
+* david.ardizzone@gmail.com
+* https://www.linkedin.com/in/davidardizzonedev/
 * https://twitter.com/Ardizzone88
 
 <p align="left">
